@@ -141,4 +141,5 @@ __all__ = [
     "MongoSettings",
     "SQLSettings",
     "WebSettings",
+    "Settings",
 ]
