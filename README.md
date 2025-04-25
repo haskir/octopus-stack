@@ -23,6 +23,6 @@ It includes common integrations and helpers for:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
+git@github.com:haskir/octopus-stack.git
+cd octopus-stack
+pip install -r requirements.txt | pipenv install
