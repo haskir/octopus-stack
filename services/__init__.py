@@ -1,0 +1,1 @@
+from .dependencies_provider import dp
